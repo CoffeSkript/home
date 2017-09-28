@@ -1,1 +1,1 @@
-# AtomJS
+# CoffeSkript . minecraft plugin
