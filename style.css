@@ -31,7 +31,7 @@ h1 {
 /*/Menu/*/
   .menu {
     display: inline-block;
-    float: right;
+    float: right
   }
 
 li {
@@ -76,117 +76,5 @@ a {
   
 }
 
-.contain-to-grid {
-    width: 100%;
-    background: #453D3F;
-  }
-
-  .contain-to-grid .top-bar {
-    margin-bottom: 0;
-  }
-
-  .top-bar {
-    background: #453D3F;
-    height: 2.8125rem;
-    line-height: 2.8125rem;
-    margin-bottom: 0;
-    overflow: hidden;
-    position: relative;
-  }
-
-  .top-bar ul {
-    list-style: none;
-    margin-bottom: 0;
-  }
-
-  .top-bar .title-area {
-    margin: 0;
-    position: relative;
-  }
-
-  .top-bar .name {
-    font-size: 16px;
-    height: 2.8125rem;
-    margin: 0;
-  }
-
-  .top-bar .name h1 {
-    font-size: 1.0625rem;
-    line-height: 2.8125rem;
-    margin: 0;
-  }
-
-  .top-bar .name h1 a {
-    color: #f7f2ea;
-    display: block;
-    font-weight: 400;
-    padding: 0 .9375rem;
-    width: 75%;
-  }
-
-  .top-bar .toggle-topbar {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-
-  .top-bar .toggle-topbar a {
-    color: #f7f2ea;
-    display: block;
-    font-size: .8125rem;
-    font-weight: 700;
-    height: 2.8125rem;
-    line-height: 2.8125rem;
-    padding: 0 .9375rem;
-    position: relative;
-    text-transform: uppercase;
-  }
-
-  .top-bar .toggle-topbar.menu-icon {
-    margin-top: -16px;
-    top: 50%;
-  }
-
-  .top-bar .toggle-topbar.menu-icon a {
-    color: #fff;
-    height: 34px;
-    line-height: 33px;
-    padding: 0 2.5rem 0 .9375rem;
-    position: relative;
-  }
-
-  .top-bar-section {
-    position: relative;
-  }
-
-  .top-bar-section ul li {
-    background: #453D3F;
-  }
-
-  .top-bar-section {
-    left: 0;
-    width: auto;
-  }
-
-  .top-bar-section ul {
-    display: block;
-    font-size: 16px;
-    height: auto;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-  }
-
-  .top-bar-section ul li>a {
-    color: #f7f2ea;
-    display: block;
-    font-family: Oxygen,Helvetica,Arial,sans-serif;
-    font-size: .8125rem;
-    font-weight: 400;
-    padding: 12px 0 12px .9375rem;
-    text-transform: none;
-    width: 100%;
-  }
 
 
-  
